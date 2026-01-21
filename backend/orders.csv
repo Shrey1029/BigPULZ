@@ -1,0 +1,21 @@
+orderId,customerName,productName,category,quantity,amount,city,paymentMode,orderDate
+ORD1001,Aarav Sharma,Wireless Mouse,Electronics,2,1198,Pune,UPI,2025-01-02
+ORD1002,Ananya Verma,Running Shoes,Fashion,1,2499,Mumbai,Credit Card,2025-01-03
+ORD1003,Rohan Singh,Basmati Rice 5kg,Grocery,1,699,Nagpur,Cash,2025-01-03
+ORD1004,Priya Nair,Smartphone Case,Electronics,3,897,Bangalore,UPI,2025-01-04
+ORD1005,Aditya Mehta,LED Bulb Pack,Home & Living,4,799,Delhi,Debit Card,2025-01-05
+ORD1006,Sneha Patil,Face Wash,Beauty,2,498,Pune,UPI,2025-01-06
+ORD1007,Vihaan Gupta,Notebook Set,Stationery,5,750,Indore,Cash,2025-01-06
+ORD1008,Ishita Roy,Headphones,Electronics,1,1999,Kolkata,Credit Card,2025-01-07
+ORD1009,Karan Malhotra,Protein Powder,Health,1,1799,Chennai,Debit Card,2025-01-07
+ORD1010,Neha Joshi,Coffee Maker,Appliances,1,3299,Hyderabad,Net Banking,2025-01-08
+ORD1011,Arjun Yadav,T-Shirt,Fashion,2,998,Jaipur,UPI,2025-01-09
+ORD1012,Meera Iyer,Milk 1L,Grocery,6,360,Bangalore,Cash,2025-01-09
+ORD1013,Siddharth Jain,Power Bank,Electronics,1,1499,Delhi,Credit Card,2025-01-10
+ORD1014,Kavya Kapoor,Hair Oil,Beauty,2,520,Lucknow,UPI,2025-01-10
+ORD1015,Rahul Deshmukh,Water Bottle,Home & Living,3,597,Pune,Debit Card,2025-01-11
+ORD1016,Simran Kaur,Yoga Mat,Health,1,799,Chandigarh,UPI,2025-01-12
+ORD1017,Nikhil Bansal,Keyboard,Electronics,1,1699,Indore,Net Banking,2025-01-12
+ORD1018,Pooja Reddy,Handbag,Fashion,1,1899,Hyderabad,Credit Card,2025-01-13
+ORD1019,Aman Khan,Shampoo,Beauty,2,699,Mumbai,UPI,2025-01-14
+ORD1020,Ritika Sharma,Electric Kettle,Appliances,1,1299,Delhi,Debit Card,2025-01-15
