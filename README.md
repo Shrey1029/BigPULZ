@@ -1,4 +1,3 @@
-<img width="1897" height="899" alt="image" src="https://github.com/user-attachments/assets/39b3395c-90d8-4b84-835f-773a0a80a43d" /># 📊 BizPulse – Business Analytics Dashboard
 
 BizPulse is a full-stack business analytics and order management dashboard built using the **MERN stack**. It provides a clean admin panel to manage orders, customers, and revenue insights using interactive charts, powerful filtering, and **CSV import support**.
 
