@@ -1,4 +1,4 @@
-# 📊 BizPulse – Business Analytics Dashboard
+<img width="1897" height="899" alt="image" src="https://github.com/user-attachments/assets/39b3395c-90d8-4b84-835f-773a0a80a43d" /># 📊 BizPulse – Business Analytics Dashboard
 
 BizPulse is a full-stack business analytics and order management dashboard built using the **MERN stack**. It provides a clean admin panel to manage orders, customers, and revenue insights using interactive charts, powerful filtering, and **CSV import support**.
 
@@ -15,6 +15,12 @@ This project is designed to follow **industry-style development practices** with
 * Category-wise Sales Analytics
 * City-based distribution insights
 
+
+<img width="1897" height="899" alt="image" src="https://github.com/user-attachments/assets/093ce8f3-53a5-4c97-b8c0-df8ea95c060a" />
+<img width="1919" height="890" alt="image" src="https://github.com/user-attachments/assets/7498bbb6-ad02-4d64-a0dc-6c2db22b6f4c" />
+
+
+
 ### ✅ Orders Management
 
 * View all orders in a structured table
@@ -23,11 +29,17 @@ This project is designed to follow **industry-style development practices** with
 * Pagination support for large datasets
 * View order details
 
+<img width="1919" height="844" alt="image" src="https://github.com/user-attachments/assets/077fa8bc-cc0a-46c1-86e1-62cc40621672" />
+
+
 ### ✅ CSV Upload Support
 
 * Upload bulk order data using a `.csv` file
 * Automatic parsing + validation before database insertion
 * Designed for importing real-world datasets
+
+<img width="1907" height="828" alt="image" src="https://github.com/user-attachments/assets/edbd6b6a-f2a6-4906-9ecc-8c1d4b553c26" />
+
 
 ### ✅ REST API Backend
 
